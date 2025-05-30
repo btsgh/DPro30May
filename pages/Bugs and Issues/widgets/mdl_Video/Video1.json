@@ -1,0 +1,32 @@
+{
+  "animateLoading": true,
+  "autoPlay": false,
+  "borderRadius": "0px",
+  "bottomRow": 35,
+  "boxShadow": "none",
+  "displayName": "Video",
+  "dynamicBindingPathList": [
+    {
+      "key": "url"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.39c2d696.svg",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "zfjnzl4j4o",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 0,
+  "parentColumnSpace": 18.8125,
+  "parentId": "rvertdye4p",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 5,
+  "type": "VIDEO_WIDGET",
+  "url": "{{List1.selectedItem.url}}",
+  "version": 1,
+  "widgetId": "eq2nm4emxt",
+  "widgetName": "Video1"
+}

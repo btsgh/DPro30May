@@ -18,6 +18,10 @@
   "icon": "rocket",
   "pages": [
     {
+      "id": "Bugs and Issues",
+      "isDefault": false
+    },
+    {
       "id": "Widgets",
       "isDefault": true
     },

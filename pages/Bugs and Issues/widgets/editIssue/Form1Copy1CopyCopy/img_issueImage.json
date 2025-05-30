@@ -1,0 +1,44 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 70,
+  "boxShadow": "none",
+  "defaultImage": "https://assets.appsmith.com/widgets/default.png",
+  "displayName": "Image",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "image"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "hideCard": false,
+  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.30c8cbd442cce232b01ba2d434c53a53.svg",
+  "image": "{{lst_issues.triggeredItem.Attachments[utils.imageIndex].url}}",
+  "imageShape": "RECTANGLE",
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "btfit3ydvj",
+  "leftColumn": 11,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 43,
+  "mobileLeftColumn": 24,
+  "mobileRightColumn": 36,
+  "mobileTopRow": 31,
+  "objectFit": "cover",
+  "parentColumnSpace": 12.5416015625,
+  "parentId": "0tgtj7buiw",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 51,
+  "topRow": 33,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "v0ggsgivz3",
+  "widgetName": "img_issueImage"
+}

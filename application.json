@@ -18,11 +18,11 @@
   "icon": "rocket",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Widgets",
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "Copied Widgets",
       "isDefault": false
     }
   ],

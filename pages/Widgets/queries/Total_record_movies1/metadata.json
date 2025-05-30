@@ -1,6 +1,6 @@
 {
   "gitSyncId": "683939ae8c263668834b8feb_7827ab60-ff06-461c-866d-630a3d8e853d",
-  "id": "Page1_Total_record_movies1",
+  "id": "Widgets_Total_record_movies1",
   "pluginId": "mongo-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -67,7 +67,7 @@
       }
     ],
     "name": "Total_record_movies1",
-    "pageId": "Page1",
+    "pageId": "Widgets",
     "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }

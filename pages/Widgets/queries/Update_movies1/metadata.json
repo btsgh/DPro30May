@@ -1,6 +1,6 @@
 {
   "gitSyncId": "683939ae8c263668834b8feb_ae3e6439-270b-47d2-a541-3a343d1db44b",
-  "id": "Page1_Update_movies1",
+  "id": "Widgets_Update_movies1",
   "pluginId": "mongo-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -71,7 +71,7 @@
       }
     ],
     "name": "Update_movies1",
-    "pageId": "Page1",
+    "pageId": "Widgets",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
